@@ -1,0 +1,8 @@
+{
+  "name": "Nesta - Mindful Sanctuary",
+  "description": "A gentle emotional sanctuary and daily grounding companion for mindful check-ins, calming personalized stories, and paced breathing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
